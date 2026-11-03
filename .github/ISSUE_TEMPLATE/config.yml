@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Preguntas generales sobre el proyecto
+    url: https://github.com/agb4455/tfm/discussions
+    about: Para dudas generales, arquitectura o uso del proyecto.

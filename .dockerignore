@@ -1,0 +1,21 @@
+# Excluir archivos locales y temporales
+
+.git
+.github
+.env
+.env.*
+*.log
+npm-debug.log*
+node_modules
+.vite
+.cache
+coverage
+.DS_Store
+Thumbs.db
+
+# Docker
+Dockerfile.local
+
+dist
+build
+.tmp

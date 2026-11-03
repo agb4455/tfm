@@ -1,0 +1,20 @@
+# Exclude Git attributes from the repository root
+
+* text=auto
+
+*.sh text eol=lf
+*.bash text eol=lf
+*.ps1 text eol=crlf
+*.bat text eol=crlf
+*.md text
+*.yml text
+*.yaml text
+*.json text
+*.env text
+
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.pdf binary
